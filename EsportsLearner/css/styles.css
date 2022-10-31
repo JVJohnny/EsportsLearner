@@ -1,0 +1,144 @@
+
+
+.btn-widght{
+    align-items: center;
+    text-align: center;
+}
+
+
+.modal-dialog {
+    max-width: 400px;
+}
+
+.load {
+    min-width: 100%;
+    position: relative;
+
+
+}
+
+.uploadSets{
+
+    position: absolute;
+    
+    right: 75px;
+    bottom: 130px;
+    width: 32px;
+    height: 32px;
+    line-height: 33px;
+    text-align: center;
+    border-radius: 50px;
+    overflow: hidden;
+    transform: scale(2);
+    opacity: 0;
+    cursor: pointer;
+    
+}
+
+.drop {
+    min-width: 300px;
+
+}
+
+.backg {
+    background-color: #ece5d5;
+
+}
+
+.backg2 {
+
+    background-color: #ffffff;
+}
+
+.backg3 {
+
+    background-color: #f5f2ea;
+}
+
+
+.uploadCam {
+    border: 3px solid #00f7f7;
+    background: #00f7f7;
+    color: rgb(252, 252, 252);
+    
+    
+    border-radius: 50%;
+    position: absolute;
+    right: 85px;
+    bottom: 140px;
+    transform: scale(2);
+    
+}
+
+.login-size{
+    
+    font-size: 25px;
+    text-align: center;
+    background-color: rgb(255, 240, 240);
+}
+
+.cards {
+
+    background-color: rgb(255, 255, 255);
+}
+
+.cor{
+    color: rgb(255, 255, 255);
+
+  }
+
+
+.login-sizes{
+    font-size: 25px;
+    text-align: center;
+    color: black;
+
+    
+    background-color: rgb(214, 200, 200);
+}
+
+.btncss {
+   
+    left: 50%;
+    
+    
+}
+.input{
+
+      outline: none;
+
+    
+}
+
+.container {
+    background-color: none;
+
+}
+body{
+    background-color: rgb(255, 247, 247);
+    
+}
+
+.bg-interno{
+    background-color: rgb(139, 136, 136);
+
+}
+
+.item{
+    color: black;
+    font-size: 15px;
+
+    
+
+}
+
+.items{
+    width: 500px;
+    
+}
+
+.icon{
+    display: grid;
+    height: 25px;
+    
+}
